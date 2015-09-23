@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1c5b3f57-92b0-4a49-9a91-443337f061ce</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>716421FCF07276453EA1FF84DA00B5D7857120FF8B3EC590841CFDD3ED3DB4FA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1c5b3f57-92b0-4a49-9a91-443337f061ce_1.0.0.0_neutral__ng8fjaqf7gktm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1c5b3f57-92b0-4a49-9a91-443337f061ce_ng8fjaqf7gktm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1c5b3f57-92b0-4a49-9a91-443337f061ce</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohammed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-03T13:23:15.249</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\bin\Debug\CustomControl.Windows.exe">
+      <PackagePath>CustomControl.Windows.exe</PackagePath>
+      <Modified>2015-04-03T13:23:14.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T16:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T16:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T16:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T16:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-03T13:23:13.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-03T13:23:13.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\bin\Debug\CustomControl.Windows.xr.xml">
+      <PackagePath>CustomControl.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-03T13:23:12.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2015\Projects\CustomControl\CustomControl\CustomControl.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-03T13:23:14.601</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
